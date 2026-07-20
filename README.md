@@ -43,4 +43,4 @@ I focus on building reliable testing processes, identifying defects, and improvi
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](LINKEDIN_LINKIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ozgunalkanerdogan/)
