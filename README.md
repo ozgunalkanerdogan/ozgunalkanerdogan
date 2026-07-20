@@ -1,16 +1,36 @@
-## Hi there 👋
+[ BANNER ]
+Özgün Alkan Erdoğan
+Junior QA Engineer
+Manual Testing | Cypress | Selenium | Python | Postman | SQL
 
-<!--
-**ozgunalkanerdogan/ozgunalkanerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Özgün 👋
 
-Here are some ideas to get you started:
+Junior QA Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Junior QA Engineer focused on manual and automated software testing.
+I have hands-on experience with Cypress, JavaScript, API testing with Postman,
+SQL database validation, Jira, and TestRail.
+
+Currently expanding my automation skills with Python and Selenium.
+
+💼 Open to: Junior QA Engineer • Software Test Engineer • QA Automation
+
+────────────────────────
+
+🧪 Featured Projects
+
+PowerPulse Manual Testing
+Translate App Automation Testing
+Selenium Python Automation Project
+
+────────────────────────
+
+🛠 Tech Stack
+
+Cypress | Selenium | Python | JavaScript
+Postman | SQL | Jira | TestRail
+Git | GitHub
+
+────────────────────────
+
+📊 GitHub Stats
