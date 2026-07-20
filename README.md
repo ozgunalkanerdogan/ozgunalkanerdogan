@@ -1,4 +1,8 @@
-# Hi, I'm Özgün 👋
+<p align="center">
+  <img src="banner.png" alt="Özgün Alkan Erdoğan - Junior QA Engineer" width="100%">
+</p>
+
+Hi, I'm Özgün 👋
 
 ### Junior QA Engineer
 
